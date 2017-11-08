@@ -1,6 +1,6 @@
 {
   "name": "ccbot",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Corner Cafe Bot",
   "main": "app.js",
   "scripts": {
