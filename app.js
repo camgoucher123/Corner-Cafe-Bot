@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const settings = require('./settings.json');
 var general = "331122479022080001"
 var ccbotlog = "369208528339992576"
 client.on('ready',() => {
